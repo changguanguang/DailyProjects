@@ -2,6 +2,3 @@ this is a new file
 add a line111
 add a line222
 add second line
-
-
-add third line
